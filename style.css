@@ -1,0 +1,40 @@
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #e2edff;
+}
+
+#projects{
+  background-color: #e2edff;
+}
+
+section{
+  padding-top: 5rem;
+}
+#sertifikat-section {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+#sertifikat-section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.sertifikat-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.sertifikat {
+  width: 200px;
+  text-align: center;
+  margin: 10px;
+}
+
+.sertifikat-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
